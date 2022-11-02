@@ -1,0 +1,32 @@
+body{
+    background-image: url("wallpaper.jpg");
+    background-size: cover;
+}
+.include h1{
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    color:red;
+    font-family: 'Poppins', sans-serif;
+}
+.include input{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    background-color: rgb(23, 2, 2);
+    color: antiquewhite;
+    position:absolute;
+    top: 30%;
+    left: 40%;
+    width: 30%;
+    height: 10%;
+}
+.include button{
+    background-color: wheat;
+    color: black;
+    position: absolute;
+    top: 45%;
+    left: 40%;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    border-radius: 10px;
+}
