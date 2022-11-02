@@ -19,6 +19,7 @@ body{
     left: 40%;
     width: 30%;
     height: 10%;
+    border-radius:10px;
 }
 .include button{
     background-color: wheat;
